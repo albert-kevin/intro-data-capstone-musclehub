@@ -27,6 +27,9 @@ FILES
  * applications.csv
  * purchases.csv
 
+ * example.db
+ * interviews.txt
+
 ### SOURCE
  * musclehub.ipynb
  * Albert_Kevin_MuscleHub_feb-2018.py
@@ -35,3 +38,8 @@ FILES
  
 ### RESULT
  * Albert_Kevin_MuscleHub_feb-2018.pdf
+
+Pulling & Analyzing Data
+-----------
+
+`jupyter musclehub.ipynb`
