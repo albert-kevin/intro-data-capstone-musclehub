@@ -9,12 +9,12 @@ you need to prepare an A/B test for a fitness center called MuscleHub.
 REQUIRED MODULES
 ------------
 
-Python v2.7
-Jupyter Notebook
-Numpy
-Pandas
-matplotlib
-scipy
+ * Python v2.7
+ * Jupyter Notebook
+ * Numpy
+ * Pandas
+ * matplotlib
+ * scipy
 
 Note: codecademySQL.py was provided by the course for the SQL code and is included (no need to install)
 
